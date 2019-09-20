@@ -1,0 +1,18 @@
+Modify Your CRUD operation Application
+----------------------------------------------------------
+
+
+1) complete the details updation process using spring-forms.
+
+	when user clicks on change option :
+
+             1) one pre-filled form will appear with the details of the students whose change link is clicked.
+             2) after making changes to that pre-filled form user will click on submit (update) button
+             3) data will go to controller, controller will update the details using service class.
+             4) updated student's list will be shown to user.
+
+	
+
+
+
+2) rewrite the  data entry form using spring forms.
